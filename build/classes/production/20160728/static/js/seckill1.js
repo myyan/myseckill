@@ -1,0 +1,5 @@
+
+//javascript modulize
+var seckill = {
+
+}
