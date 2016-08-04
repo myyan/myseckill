@@ -1,6 +1,6 @@
 package com.freeeland.demo.dto;
 
-import com.freeeland.demo.Enum.SeckillStateEnum;
+import com.freeeland.demo.tool.SeckillStateEnum;
 import com.freeeland.demo.model.SuccessKilled;
 
 /**

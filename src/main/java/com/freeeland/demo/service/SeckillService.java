@@ -1,6 +1,6 @@
 package com.freeeland.demo.service;
 
-import com.freeeland.demo.Enum.SeckillStateEnum;
+import com.freeeland.demo.tool.SeckillStateEnum;
 import com.freeeland.demo.dto.Exposer;
 import com.freeeland.demo.dto.SeckillExecution;
 import com.freeeland.demo.exception.RepeatKillException;

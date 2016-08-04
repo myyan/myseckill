@@ -1,4 +1,4 @@
-package com.freeeland.demo.Enum;
+package com.freeeland.demo.tool;
 
 /**
  * Created by freeland on 2016/7/31.
